@@ -38,7 +38,7 @@ services:
     env: node
     plan: free
     # Update the following line with your Remix GitHub repo
-    repo: https://github.com/render-examples/strapiconf2022-workshop-remix
+    repo: https://github.com/tommywong-dev/render-remix-demo
     branch: step-5
     buildCommand: npm install && npm run build
     startCommand: npm start
